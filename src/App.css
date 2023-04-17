@@ -1,0 +1,24 @@
+.todo__home{
+   
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+    width: 338px;
+    border-radius: 1rem;
+    padding: 1rem 2rem;
+    
+}
+.card{
+    width: 340px;
+    
+    
+   
+}
+form{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: antiquewhite !important;
+}
+
